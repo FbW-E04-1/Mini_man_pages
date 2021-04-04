@@ -1,7 +1,8 @@
 # Mini_man_pages
 *Simplified man pages, stripped of bells and whistles*
 
-All content for this repository is stored in the Wiki.
+---
+**All content for this repository is stored in the Wiki.**
 
 Please [use Pull Requests](https://opensource.com/article/19/7/create-pull-request-github) to make changes:
 
