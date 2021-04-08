@@ -35,7 +35,7 @@ Please [use Pull Requests](https://opensource.com/article/19/7/create-pull-reque
 * Visit your repository in your browser. You should now see a Compare & Pull Request button. Click on that and type a message explaining the changes that you propose.
 * Click on Create Pull Request
 ---
-After a collaborator has reviewed your proposed changes, they can merge them to the `main` branch of this repository. To see the updated version of the Wiki in your local repository you will need to [pull the upstream changes](https://bioconductor.org/developers/how-to/git/pull-upstream-changes/):
+After a collaborator has reviewed your proposed changes, they can merge them to the `main` branch of this repository. To see the updated version of the upstream repository in your local repository you will need to [pull the upstream changes](https://bioconductor.org/developers/how-to/git/pull-upstream-changes/):
 
 ```bash
 git checkout main       # make sure you are on the main branch
