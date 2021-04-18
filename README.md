@@ -47,3 +47,4 @@ git checkout changes    ### make sure that you are on your custom branch ###
 git merge main/changes  # Now you are ready to make more changes
 ```
 
+just adding a new line 
